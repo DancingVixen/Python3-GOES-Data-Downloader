@@ -1,4 +1,3 @@
-# Python3-GOES-Data-Downloader
 <h1>Original Code by K2SDR:</h1>
 <br>https://www.reddit.com/user/jeffreypkelly</br>
 <br>https://www.qrz.com/db/k2sdr</br>
